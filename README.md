@@ -58,8 +58,6 @@ User Module:
 
  <h3>Products Page</h3><br>
 <img src="screenshots/Web capture_30-5-2023_10286_127.0.0.1.jpeg"><br>
- <h3>All Products Listing Page</h3><br>
-<img src="screenshots/product.jpg"><br>
  <h3>Products Info</h3><br>
 <img src="screenshots/productinfo.jpg"><br>
  <h3>Accounts</h3><br>
