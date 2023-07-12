@@ -11,10 +11,11 @@ The Staff module is designed to facilitate the delivery process. Staff members c
 The User module is tailored for customers to explore products based on categories and perform search operations. Users can add products to their cart, view multiple product images, and proceed to place orders. The project supports a single ordering and "buy all" option, streamlining the purchasing process. Users can provide their delivery address and track their orders. Only the cash-on-delivery payment method is available for users.
 
 Overall, Eshopify aims to provide a comprehensive e-commerce solution, integrating essential features such as product management, user reviews, cash-on-delivery payments, order tracking through QR codes, and a user-friendly interface for a seamless shopping experience.
- 
+ <h3>Home</h3>
+ <img src="screenshots/Web capture_30-5-2023_102325_127.0.0.1.jpeg">
 # Modules
 Admin Module:
-
+<img src="screenshots/admin.jpg">
 <ol>
 <li>Add product category</li>
 <li>Add products based on category</li>
@@ -54,8 +55,22 @@ User Module:
  
  # images
  
- <h3>Home</h3>
- <img src="screenshots/Web capture_30-5-2023_102325_127.0.0.1.jpeg">
- <h3>Products Page</h3>
-<img src="screenshots/Web capture_30-5-2023_10286_127.0.0.1.jpeg">
 
+ <h3>Products Page</h3><br>
+<img src="screenshots/Web capture_30-5-2023_10286_127.0.0.1.jpeg"><br>
+ <h3>All Products Listing Page</h3><br>
+<img src="screenshots/product.jpg"><br>
+ <h3>Products Info</h3><br>
+<img src="screenshots/productinfo.jpg"><br>
+ <h3>Accounts</h3><br>
+<img src="screenshots/accounts.jpg"><br>
+ <h3>User Order Page</h3><br>
+<img src="screenshots/orders.jpg"><br>
+ <h3>Payment</h3><br>
+<img src="screenshots/payment.jpg"><br>
+ <h3>QR Code Scanning</h3><br>
+<img src="screenshots/qrscanning.jpg"><br>
+ <h3>SignUp Page</h3><br>
+<img src="screenshots/signup.jpg"><br>
+ <h3>SignIn Page</h3><br>
+<img src="screenshots/signin.jpg"><br>
