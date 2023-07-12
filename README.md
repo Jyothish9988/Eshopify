@@ -66,6 +66,11 @@ User Module:
 <img src="screenshots/orders.jpg"><br>
  <h3>Payment</h3><br>
 <img src="screenshots/payment.jpeg"><br>
+ <h3>Admin Orders Viewing</h3><br>
+<img src="screenshots/adminorders.jpg"><br>
+ <h3>Admin Orders Viewing with QR</h3><br>
+ <h2>Here admin can print the order bill with QR code of reference id.</h2>
+<img src="screenshots/adminordersqr.jpg"><br>
  <h3>QR Code Scanning</h3><br>
 <img src="screenshots/qrscanning.jpg"><br>
  <h3>SignUp Page</h3><br>
