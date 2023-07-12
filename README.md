@@ -67,10 +67,10 @@ User Module:
  <h3>User Order Page</h3><br>
 <img src="screenshots/orders.jpg"><br>
  <h3>Payment</h3><br>
-<img src="screenshots/payment.jpg"><br>
+<img src="screenshots/payment.jpeg"><br>
  <h3>QR Code Scanning</h3><br>
 <img src="screenshots/qrscanning.jpg"><br>
  <h3>SignUp Page</h3><br>
-<img src="screenshots/signup.jpg"><br>
+<img src="screenshots/signup.jpeg"><br>
  <h3>SignIn Page</h3><br>
-<img src="screenshots/signin.jpg"><br>
+<img src="screenshots/signin.jpeg"><br>
