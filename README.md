@@ -11,6 +11,51 @@ The Staff module is designed to facilitate the delivery process. Staff members c
 The User module is tailored for customers to explore products based on categories and perform search operations. Users can add products to their cart, view multiple product images, and proceed to place orders. The project supports a single ordering and "buy all" option, streamlining the purchasing process. Users can provide their delivery address and track their orders. Only the cash-on-delivery payment method is available for users.
 
 Overall, Eshopify aims to provide a comprehensive e-commerce solution, integrating essential features such as product management, user reviews, cash-on-delivery payments, order tracking through QR codes, and a user-friendly interface for a seamless shopping experience.
+<h2>Getting Started</h2>
+
+<h3>Prerequisites</h3>
+<p>
+    Before you begin, ensure you have the following installed:
+    <ul>
+        <li>PHP</li>
+        <li>Composer</li>
+        <li>Node.js</li>
+        <li>MySQL</li>
+    </ul>
+</p>
+
+<h3>Installation</h3>
+<p>
+    1. Clone the repository:
+    <pre><code>git clone https://github.com/yourusername/code-fusion.git</code></pre>
+</p>
+
+<p>
+    2. Install dependencies:
+    <pre><code>composer install</code></pre>
+    <pre><code>npm install</code></pre>
+</p>
+
+<p>
+    3. Configure the environment:
+    <pre><code>cp .env.example .env</code></pre>
+    Update the database and other configuration settings in the .env file.
+</p>
+
+<p>
+    4. Run migrations and seed the database:
+    <pre><code>php artisan migrate --seed</code></pre>
+</p>
+
+<p>
+    5. Start the development server:
+    <pre><code>php artisan serve</code></pre>
+</p>
+
+<h2>Usage</h2>
+<p>
+    Visit the application in your browser and start exploring the features.
+</p>
  <h3>Home</h3>
  <img src="screenshots/Web capture_30-5-2023_102325_127.0.0.1.jpeg">
 # Modules
