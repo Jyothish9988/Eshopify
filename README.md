@@ -24,10 +24,23 @@ Overall, Eshopify aims to provide a comprehensive e-commerce solution, integrati
     </ul>
 </p>
 
+<h2>Getting Started</h2>
+
+<h3>Prerequisites</h3>
+<p>
+    Before you begin, ensure you have the following installed:
+    <ul>
+        <li>PHP</li>
+        <li>Composer</li>
+        <li>Node.js</li>
+        <li>MySQL</li>
+    </ul>
+</p>
+
 <h3>Installation</h3>
 <p>
     1. Clone the repository:
-    <pre><code>git clone https://github.com/yourusername/code-fusion.git</code](https://github.com/Jyothish9988/Eshopify.git></pre>
+    <pre><code>git clone https://github.com/Jyothish9988/Eshopify.git</code></pre>
 </p>
 
 <p>
