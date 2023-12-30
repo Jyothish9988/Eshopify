@@ -27,7 +27,7 @@ Overall, Eshopify aims to provide a comprehensive e-commerce solution, integrati
 <h3>Installation</h3>
 <p>
     1. Clone the repository:
-    <pre><code>git clone https://github.com/yourusername/code-fusion.git</code></pre>
+    <pre><code>git clone[ https://github.com/yourusername/code-fusion.git</code](https://github.com/Jyothish9988/Eshopify.git)></pre>
 </p>
 
 <p>
